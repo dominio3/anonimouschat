@@ -1,0 +1,1 @@
+CREATE TABLE `id3352043_appchat`.`chat` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `nombre` VARCHAR(50) NULL , `mensaje` VARCHAR(1024) NULL , `fecha` VARCHAR(50) NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
